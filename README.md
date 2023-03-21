@@ -5,7 +5,7 @@ This project uses totally generic data structures (void*), we use hash table wit
 stack, double linked list and we work with the load factor of the table buckets so that they are not overloaded and 
 generate an imbalance. We put full emphasis on the complexity of the operations.
 
-#Operations
+# Operations
 When we operate with the book, we can do the following things:
 - Search: we search for a user in the book
 - Add: add a user to the workbook
